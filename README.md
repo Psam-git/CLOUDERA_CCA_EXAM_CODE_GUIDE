@@ -1,0 +1,2 @@
+# CLOUDERA_CCA_EXAM_CODE_GUIDE
+This is for those partaking in the CCA exam, I have put together this coding guide to help with quick access to codes utilised in the exam. I still advise you learn the user documentation guide however if you just want to quickly access the codes required without excessive clicking please use this. Also for those who have already finished their exam and would still like a quick access to some hadoop or spark codes use this . Also feel free to add and modify
